@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Unified Name
+## Notes: Adds a custom name to chat messages.
+## Author: Katalyst
+## SavedVariables: UnifiedNameDB
+
+core.lua
+options.lua
